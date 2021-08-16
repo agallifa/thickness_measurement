@@ -1,0 +1,6 @@
+- Open all images
+- create stack
+- Image -> Type -> 8 bit
+- Image -> Adjust -> Canvas Size 17500x800 px (represents a length of about 19 mm)
+- Process --> Binary --> Make binary (Default method, black background)
+- Save image sequence as TIF files
